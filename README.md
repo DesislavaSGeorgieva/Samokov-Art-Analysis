@@ -19,7 +19,7 @@ This project represents an interdisciplinary bridge between **Art History** and 
 
 ## 📂 Repository Structure
 * `Pantokrator_vs_Maiestas.ipynb` - The main research notebook containing all code and analysis.
-* `ikona.jpg` - Sample high-resolution image used for CLAHE demonstration.
+* `icon.jpg` - Sample high-resolution image used for CLAHE demonstration.
 * `README.md` - Project documentation and metadata.
 
 ## 🖼️ Key Feature: Digital Enhancement
