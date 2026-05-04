@@ -1,6 +1,6 @@
 # 🎨 Orthodox Iconography & Data Science
 
-## The Samokov School in a Global Digital Context
+# The Samokov School in a Global Digital Context
 
 ## 🖼️ Visual Insight: Revealing Hidden Detail
 
