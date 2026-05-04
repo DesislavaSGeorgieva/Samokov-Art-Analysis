@@ -2,33 +2,6 @@
 
 # The Samokov School in a Global Digital Context
 
-plt.figure(figsize=(7, 5))
-
-bars = plt.bar(
-    ['Initial Dataset', 'With Samokov School'],
-    [pre_correction, post_correction],
-    # Magenta for initial data, blue for the Samokov School integration
-    color = ['#E7063A','#1A5262'],
-    edgecolor='black'
-)
-
-plt.title('Impact of Regional Data on Iconographic Interpretation', fontsize=12, fontweight='bold')
-plt.ylabel('Presence of Open Book (%)')
-plt.ylim(0, 100)
-
-# Value labels
-for bar in bars:
-    yval = bar.get_height()
-    plt.text(bar.get_x() + bar.get_width()/2, yval + 2, f'{yval:.1f}%', ha='center')
-
-plt.grid(axis='y', linestyle='--', alpha=0.5)
-plt.tight_layout()
-
-# SAVE IMAGE FOR README
-plt.savefig('comparison_result.jpg', dpi=300)
-
-plt.show()
-
 ## 🖼️ Visual Insight: Revealing Hidden Detail
 
 <p align="center">
