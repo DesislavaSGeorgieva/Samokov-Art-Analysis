@@ -2,6 +2,19 @@
 
 ## The Samokov School in a Global Digital Context
 
+## 🖼️ Visual Insight: Revealing Hidden Detail
+
+<p align="center">
+  <img src="icon.jpg" width="300"/>
+  <img src="clahe_result.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <em>Left: Original image | Right: Enhanced using CLAHE (Contrast Limited Adaptive Histogram Equalization)</em>
+</p>
+
+This visual example illustrates how digital enhancement techniques can reveal details that are otherwise difficult to perceive, supporting the study of iconographic features and inscriptions.
+
 ---
 
 ## 🌟 Overview
